@@ -110,7 +110,7 @@ def train_model(model, train_loader, num_epochs=3):
 
 ## Training Loss per Epoch
 
-Include the Training Loss per epoch
+![DL](https://github.com/Bavya-sri18/Develop-a-Convolutional-Deep-Neural-Network-for-Image-Classification/blob/main/DL3-5.png?raw=true)
 
 ## Confusion Matrix
 
